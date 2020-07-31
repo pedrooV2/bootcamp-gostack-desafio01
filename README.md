@@ -4,7 +4,6 @@
 * NodeJS
 * Yarn
 ## Iniciando
-### Instalando as dependências
 Execute o seguinte comando para instalar todas as dependências do projeto:
 ```
 yarn
