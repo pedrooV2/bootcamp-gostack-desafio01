@@ -1,9 +1,9 @@
 # bootcamp-gostack-desafio01
 
-## Requirements
+## Requerimentos
 * NodeJS
 * Yarn
-## How to Run
+## Iniciando
 ### Instalando as dependências
 Execute o seguinte comando para instalar todas as dependências do projeto:
 ```
