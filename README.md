@@ -1,5 +1,5 @@
 # bootcamp-gostack-desafio01
-Este desafio comtempla conceitos básicos sobre NodeJs
+Primeiro desafio do bootcamp GoStack da Rocketseat. Este desafio comtempla conceitos básicos sobre NodeJs.
 ## Requerimentos
 * NodeJS
 * Yarn
